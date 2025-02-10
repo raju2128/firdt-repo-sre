@@ -1,6 +1,0 @@
-<<<<<<< HEAD
-raju----b1
-=======
-Kanna.......
-brach-2
->>>>>>> branch2
